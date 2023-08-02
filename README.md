@@ -80,10 +80,10 @@
 - 내 예약 기록 관리 : 내가 예약한 숙소/교통/액티비티를 카테고리별로 조회할 수 있다. 상세 조회로 넘어가면 결제내역을 볼 수 있다. 예약 취소 버튼을 누르면 예약을 취소할 수 있다.
 - 리뷰 관리 : 서비스 내 결제 기록이 있으나 리뷰가 작성되지 않은 결제건에 대한 리뷰를 작성할 수 있다. 별점과 내용을 작성해 등록할 시 Ajax를 통해 DB에 등록된다. 또한, Ajax를 통해 작성된 리뷰를 수정, 삭제할 수 있다.
 <p align="center">
-  <img src="04. 화면 설계/마이페이지/마이페이1지.png" width=500px; height=500px;>
-  <img src="04. 화면 설계/마이페이지/마이페이2지.png" width=500px; height=500px;>
-  <img src="04. 화면 설계/마이페이지/마이페이3지.png" width=500px; height=500px;>
-  <img src="04. 화면 설계/마이페이지/마이페이4지.png" width=500px; height=500px;>
+  <img src="04. 화면 설계/마이페이지/마이페이1지.png" width=400px; height=500px;>
+  <img src="04. 화면 설계/마이페이지/마이페이2지.png" width=400px; height=500px;>
+  <img src="04. 화면 설계/마이페이지/마이페이3지.png" width=400px; height=500px;>
+  <img src="04. 화면 설계/마이페이지/마이페이4지.png" width=400px; height=500px;>
 </p>
 
 
